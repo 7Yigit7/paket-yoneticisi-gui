@@ -1,0 +1,1 @@
+# paket-yoneticisi-gui
